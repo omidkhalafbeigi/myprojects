@@ -1,0 +1,18 @@
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\bin\Debug\Mesh (Form).exe.config
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\bin\Debug\Mesh (Form).exe
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\bin\Debug\Mesh (Form).pdb
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).csprojAssemblyReference.cache
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh__Form_.Form1.resources
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh__Form_.Properties.Resources.resources
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).csproj.GenerateResource.cache
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).exe
+C:\Users\pq\Desktop\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).pdb
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\bin\Debug\Mesh (Form).exe.config
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\bin\Debug\Mesh (Form).exe
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\bin\Debug\Mesh (Form).pdb
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).csprojAssemblyReference.cache
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh__Form_.Form1.resources
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh__Form_.Properties.Resources.resources
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).csproj.GenerateResource.cache
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).exe
+C:\Users\pq\Desktop\Everything 3\Mesh (Form)\Mesh (Form)\obj\Debug\Mesh (Form).pdb

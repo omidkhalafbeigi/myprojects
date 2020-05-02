@@ -1,0 +1,65 @@
+﻿<Window x:Class="My_Manager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:My_Manager"
+        mc:Ignorable="d"
+        Title="My Manager" Height="575" Width="1023" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Black" Loaded="Window_Loaded" BorderThickness="0">
+
+    <Grid Margin="0,0,10.2,9.4">
+        <Canvas HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="993" Margin="10,10,0,0">
+            <Label Content="My Manager" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="MediumPurple" Height="36" Width="139" FontSize="20" FontFamily= "Showcard Gothic" RenderTransformOrigin="0.5,0.5" Canvas.Left="33" Canvas.Top="-6">
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.004"/>
+                        <RotateTransform Angle="0.049"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Image HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="23" Source="folder-purple.ico" Canvas.Left="10"/>
+        </Canvas>
+        <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="25" Source="multiply-2-64.png" Margin="978,10,0,0" Name="Exit" Cursor="Hand" MouseDown="Exit_MouseDown"/>
+        <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="25" Source="line-icon-13-64.ico" Margin="950,11,0,0" Name="Minimize" RenderTransformOrigin="0.5,0.5" Cursor="Hand" MouseDown="Minimize_MouseDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="44.372"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <ListView x:Name="Drivers_List" HorizontalAlignment="Left" Height="496" VerticalAlignment="Top" Width="197" Margin="10,59,0,0" Background="Black" Foreground="MediumPurple" SelectionChanged="Drivers_List_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <Image Source="{Binding ImageSource}" Height="40" Width="40" Cursor="Hand" Margin="0,0,10,0"></Image>
+                        <TextBlock Foreground="MediumPurple" Text="{Binding DrivesName}" Cursor="Hand" x:Name="Driver_Name"></TextBlock>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+
+        </ListView>
+
+        <ListView x:Name="Data_List" Margin="228,59,10,10" Background="Black" Foreground="MediumPurple" BorderThickness="0">
+            <ListView.Resources>
+                <Style TargetType="ScrollBar">
+                    <Setter Property="Background" Value="Black"></Setter>
+                    <Setter Property="Width" Value="10"></Setter>
+                </Style>
+            </ListView.Resources>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <DockPanel Cursor="Hand">
+                        <Image Source="{Binding ImageSource}" Height="64" Width="64" Name="FileIcon" DockPanel.Dock="Left"></Image>
+                        <TextBlock Foreground="MediumPurple" Text="{Binding FileName}" FontSize="18" FontFamily="Sitka Heading" Margin="20,20,0,0" Name="FileName" DockPanel.Dock="Right"></TextBlock>
+                    </DockPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+</Window>

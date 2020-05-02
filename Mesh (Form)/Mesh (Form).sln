@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mesh (Form)", "Mesh (Form)\Mesh (Form).csproj", "{65FF413A-1126-40A4-A7DC-3426B14007EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65FF413A-1126-40A4-A7DC-3426B14007EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FF413A-1126-40A4-A7DC-3426B14007EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FF413A-1126-40A4-A7DC-3426B14007EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FF413A-1126-40A4-A7DC-3426B14007EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ECD99B2-483A-4EF7-8D75-C69C0BED2A85}
+	EndGlobalSection
+EndGlobal

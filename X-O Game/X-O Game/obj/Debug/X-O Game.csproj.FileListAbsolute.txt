@@ -1,0 +1,18 @@
+C:\Users\pq\Desktop\X-O Game\X-O Game\bin\Debug\X-O Game.exe.config
+C:\Users\pq\Desktop\X-O Game\X-O Game\bin\Debug\X-O Game.exe
+C:\Users\pq\Desktop\X-O Game\X-O Game\bin\Debug\X-O Game.pdb
+C:\Users\pq\Desktop\X-O Game\X-O Game\obj\Debug\X-O Game.csprojAssemblyReference.cache
+C:\Users\pq\Desktop\X-O Game\X-O Game\obj\Debug\X_O_Game.Form1.resources
+C:\Users\pq\Desktop\X-O Game\X-O Game\obj\Debug\X_O_Game.Properties.Resources.resources
+C:\Users\pq\Desktop\X-O Game\X-O Game\obj\Debug\X-O Game.csproj.GenerateResource.cache
+C:\Users\pq\Desktop\X-O Game\X-O Game\obj\Debug\X-O Game.exe
+C:\Users\pq\Desktop\X-O Game\X-O Game\obj\Debug\X-O Game.pdb
+D:\Projects\X-O Game\X-O Game\bin\Debug\X-O Game.exe.config
+D:\Projects\X-O Game\X-O Game\bin\Debug\X-O Game.exe
+D:\Projects\X-O Game\X-O Game\bin\Debug\X-O Game.pdb
+D:\Projects\X-O Game\X-O Game\obj\Debug\X-O Game.csprojAssemblyReference.cache
+D:\Projects\X-O Game\X-O Game\obj\Debug\X_O_Game.Form1.resources
+D:\Projects\X-O Game\X-O Game\obj\Debug\X_O_Game.Properties.Resources.resources
+D:\Projects\X-O Game\X-O Game\obj\Debug\X-O Game.csproj.GenerateResource.cache
+D:\Projects\X-O Game\X-O Game\obj\Debug\X-O Game.exe
+D:\Projects\X-O Game\X-O Game\obj\Debug\X-O Game.pdb

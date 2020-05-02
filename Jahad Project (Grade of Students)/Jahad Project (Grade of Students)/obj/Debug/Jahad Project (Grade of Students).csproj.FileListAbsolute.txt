@@ -1,0 +1,6 @@
+D:\Projects\Jahad Project (Grade of Students)\Jahad Project (Grade of Students)\bin\Debug\Jahad Project (Grade of Students).exe.config
+D:\Projects\Jahad Project (Grade of Students)\Jahad Project (Grade of Students)\bin\Debug\Jahad Project (Grade of Students).exe
+D:\Projects\Jahad Project (Grade of Students)\Jahad Project (Grade of Students)\bin\Debug\Jahad Project (Grade of Students).pdb
+D:\Projects\Jahad Project (Grade of Students)\Jahad Project (Grade of Students)\obj\Debug\Jahad Project (Grade of Students).csprojAssemblyReference.cache
+D:\Projects\Jahad Project (Grade of Students)\Jahad Project (Grade of Students)\obj\Debug\Jahad Project (Grade of Students).exe
+D:\Projects\Jahad Project (Grade of Students)\Jahad Project (Grade of Students)\obj\Debug\Jahad Project (Grade of Students).pdb

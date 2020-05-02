@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CA1305: Specify IFormatProvider
+dotnet_diagnostic.CA1305.severity = none
+
+# IDE0060: Remove unused parameter
+dotnet_code_quality_unused_parameters = non_public:suggestion

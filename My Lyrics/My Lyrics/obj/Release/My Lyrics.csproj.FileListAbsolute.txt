@@ -1,0 +1,24 @@
+D:\Projects\My Lyrics\My Lyrics\bin\Release\My Lyrics.exe.config
+D:\Projects\My Lyrics\My Lyrics\bin\Release\My Lyrics.exe
+D:\Projects\My Lyrics\My Lyrics\bin\Release\My Lyrics.pdb
+D:\Projects\My Lyrics\My Lyrics\bin\Release\NAudio.dll
+D:\Projects\My Lyrics\My Lyrics\bin\Release\policy.2.0.taglib-sharp.dll
+D:\Projects\My Lyrics\My Lyrics\bin\Release\taglib-sharp.dll
+D:\Projects\My Lyrics\My Lyrics\bin\Release\NAudio.xml
+D:\Projects\My Lyrics\My Lyrics\bin\Release\policy.2.0.taglib-sharp.config
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics.csprojAssemblyReference.cache
+D:\Projects\My Lyrics\My Lyrics\obj\Release\MainWindow.g.cs
+D:\Projects\My Lyrics\My Lyrics\obj\Release\Window1.g.cs
+D:\Projects\My Lyrics\My Lyrics\obj\Release\App.g.cs
+D:\Projects\My Lyrics\My Lyrics\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics_MarkupCompile.cache
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics_MarkupCompile.lref
+D:\Projects\My Lyrics\My Lyrics\obj\Release\MainWindow.baml
+D:\Projects\My Lyrics\My Lyrics\obj\Release\Window1.baml
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics.g.resources
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My_Lyrics.Properties.Resources.resources
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics.csproj.GenerateResource.cache
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics.csproj.CoreCompileInputs.cache
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics.csproj.CopyComplete
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics.exe
+D:\Projects\My Lyrics\My Lyrics\obj\Release\My Lyrics.pdb

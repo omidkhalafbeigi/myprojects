@@ -1,0 +1,68 @@
+body{
+    background-color: white;
+}
+.Button{
+    background-color: white;
+    border-color: white;
+    color: black;
+    border-style: solid;
+}
+.Button:hover{
+    border-bottom-color: green;
+}
+.Button:active{
+    border-style: hidden;
+}
+#header{
+    position: fixed;
+    width: 50%;
+    height: 50%;
+}
+#logo{
+    width: 50px;
+    height: 50px;
+}
+#logo_div{
+    text-align: right;
+}
+.test{
+    border-color: black;
+    width: 200px;
+    height: 200px;
+    border-style: groove;
+    border-radius: 10px;
+}
+#test1{
+    margin-left: 50px;
+}
+#test2{
+    margin-left: 600px;
+}
+.test:hover{
+    opacity: 50%;
+    border-color: green;
+    border-radius: 20px;
+}
+.contact{
+    width: 100px;
+    height: 100px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 10px;
+}
+.contact:hover{
+    border-color: green;
+    border-radius: 20px;
+    opacity: 50%;
+}
+#telegram_logo{
+    margin-left: 550px;
+}
+#linkedin_logo{
+    margin-left: 540px;
+}
+#contact_div{
+    border-color: gray;
+    border-style: groove;
+    border-radius: 25px;
+}

@@ -1,0 +1,12 @@
+D:\Projects\Employee\Employee\bin\Debug\Employee.exe.config
+D:\Projects\Employee\Employee\bin\Debug\Employee.exe
+D:\Projects\Employee\Employee\bin\Debug\Employee.pdb
+D:\Projects\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+D:\Projects\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+D:\Projects\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+D:\Projects\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\Projects\Employee\Employee\obj\Debug\Employee.exe
+D:\Projects\Employee\Employee\obj\Debug\Employee.pdb
+D:\Projects\Employee\Employee\obj\Debug\Employee.Form1.resources
+D:\Projects\Employee\Employee\bin\Debug\System.Data.SqlServerCe.dll
+D:\Projects\Employee\Employee\obj\Debug\Employee.csproj.CopyComplete

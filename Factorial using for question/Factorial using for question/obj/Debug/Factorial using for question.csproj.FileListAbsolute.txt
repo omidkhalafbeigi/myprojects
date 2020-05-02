@@ -1,0 +1,7 @@
+D:\Projects\Factorial using for question\Factorial using for question\obj\Debug\Factorial using for question.csprojAssemblyReference.cache
+D:\Projects\Factorial using for question\Factorial using for question\obj\Debug\Factorial using for question.csproj.CoreCompileInputs.cache
+D:\Projects\Factorial using for question\Factorial using for question\bin\Debug\Factorial using for question.exe.config
+D:\Projects\Factorial using for question\Factorial using for question\bin\Debug\Factorial using for question.exe
+D:\Projects\Factorial using for question\Factorial using for question\bin\Debug\Factorial using for question.pdb
+D:\Projects\Factorial using for question\Factorial using for question\obj\Debug\Factorial using for question.exe
+D:\Projects\Factorial using for question\Factorial using for question\obj\Debug\Factorial using for question.pdb

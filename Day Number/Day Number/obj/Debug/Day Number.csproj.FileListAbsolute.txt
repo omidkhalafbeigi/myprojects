@@ -1,0 +1,7 @@
+D:\Projects\Day Number\Day Number\obj\Debug\Day Number.csprojAssemblyReference.cache
+D:\Projects\Day Number\Day Number\obj\Debug\Day Number.csproj.CoreCompileInputs.cache
+D:\Projects\Day Number\Day Number\bin\Debug\Day Number.exe.config
+D:\Projects\Day Number\Day Number\bin\Debug\Day Number.exe
+D:\Projects\Day Number\Day Number\bin\Debug\Day Number.pdb
+D:\Projects\Day Number\Day Number\obj\Debug\Day Number.exe
+D:\Projects\Day Number\Day Number\obj\Debug\Day Number.pdb

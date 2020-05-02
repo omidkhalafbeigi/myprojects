@@ -1,0 +1,9 @@
+D:\Projects\X-O Game\X-O Game\bin\Release\X-O Game.exe.config
+D:\Projects\X-O Game\X-O Game\bin\Release\X-O Game.exe
+D:\Projects\X-O Game\X-O Game\bin\Release\X-O Game.pdb
+D:\Projects\X-O Game\X-O Game\obj\Release\X-O Game.csprojAssemblyReference.cache
+D:\Projects\X-O Game\X-O Game\obj\Release\X_O_Game.Form1.resources
+D:\Projects\X-O Game\X-O Game\obj\Release\X_O_Game.Properties.Resources.resources
+D:\Projects\X-O Game\X-O Game\obj\Release\X-O Game.csproj.GenerateResource.cache
+D:\Projects\X-O Game\X-O Game\obj\Release\X-O Game.exe
+D:\Projects\X-O Game\X-O Game\obj\Release\X-O Game.pdb

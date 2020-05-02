@@ -1,0 +1,7 @@
+C:\Users\pq\Desktop\Collection of classes\Collection of classes\bin\Debug\Collection of classes.exe.config
+C:\Users\pq\Desktop\Collection of classes\Collection of classes\bin\Debug\Collection of classes.exe
+C:\Users\pq\Desktop\Collection of classes\Collection of classes\bin\Debug\Collection of classes.pdb
+C:\Users\pq\Desktop\Collection of classes\Collection of classes\obj\Debug\Collection of classes.csprojAssemblyReference.cache
+C:\Users\pq\Desktop\Collection of classes\Collection of classes\obj\Debug\Collection of classes.csproj.CoreCompileInputs.cache
+C:\Users\pq\Desktop\Collection of classes\Collection of classes\obj\Debug\Collection of classes.exe
+C:\Users\pq\Desktop\Collection of classes\Collection of classes\obj\Debug\Collection of classes.pdb

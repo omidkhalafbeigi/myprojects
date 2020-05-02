@@ -1,0 +1,7 @@
+D:\Projects\Internal Multiplication\Internal Multiplication\bin\Debug\Internal Multiplication.exe.config
+D:\Projects\Internal Multiplication\Internal Multiplication\bin\Debug\Internal Multiplication.exe
+D:\Projects\Internal Multiplication\Internal Multiplication\bin\Debug\Internal Multiplication.pdb
+D:\Projects\Internal Multiplication\Internal Multiplication\obj\Debug\Internal Multiplication.csprojAssemblyReference.cache
+D:\Projects\Internal Multiplication\Internal Multiplication\obj\Debug\Internal Multiplication.csproj.CoreCompileInputs.cache
+D:\Projects\Internal Multiplication\Internal Multiplication\obj\Debug\Internal Multiplication.exe
+D:\Projects\Internal Multiplication\Internal Multiplication\obj\Debug\Internal Multiplication.pdb

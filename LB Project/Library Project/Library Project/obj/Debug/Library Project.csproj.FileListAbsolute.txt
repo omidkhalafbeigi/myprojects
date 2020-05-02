@@ -1,0 +1,16 @@
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\bin\Debug\Library Project.exe
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\bin\Debug\Library Project.pdb
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library_Project.Properties.Resources.resources
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library Project.csproj.GenerateResource.cache
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library Project.csproj.CoreCompileInputs.cache
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library Project.exe
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library Project.pdb
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library Project.csprojAssemblyReference.cache
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library Project.csproj.CopyComplete
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\bin\Debug\Library Project.exe.config
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library_Project.Loading_Form.resources
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library_Project.Main_Form.resources
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library_Project.About_Form.resources
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library_Project.Insert_Member_Form.resources
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library_Project.Help_Form.resources
+C:\Users\RezaOmid\Desktop\Library Project\Library Project\obj\Debug\Library_Project.Insert_Book_Form.resources

@@ -1,0 +1,6 @@
+D:\Projects\Jahad (Star project)\Jahad (Star project)\bin\Debug\Jahad (Star project).exe.config
+D:\Projects\Jahad (Star project)\Jahad (Star project)\bin\Debug\Jahad (Star project).exe
+D:\Projects\Jahad (Star project)\Jahad (Star project)\bin\Debug\Jahad (Star project).pdb
+D:\Projects\Jahad (Star project)\Jahad (Star project)\obj\Debug\Jahad (Star project).csprojAssemblyReference.cache
+D:\Projects\Jahad (Star project)\Jahad (Star project)\obj\Debug\Jahad (Star project).exe
+D:\Projects\Jahad (Star project)\Jahad (Star project)\obj\Debug\Jahad (Star project).pdb
